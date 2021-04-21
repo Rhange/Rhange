@@ -4,11 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 12am GMT+9
-    - cron: "0 1 * * *"
+    - cron: "0 6 * * *"
 
 jobs:
   update-readme:
-    name: Update this repo's README
+    name: Rhange
     runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
