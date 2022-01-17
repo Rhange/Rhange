@@ -23,17 +23,15 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rhange0511)](https://solved.ac/rhange0511)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2058%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    105 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
-🌆 Daytime    402 commits    ███████████████░░░░░░░░░░   59.56% 
-🌃 Evening    147 commits    █████░░░░░░░░░░░░░░░░░░░░   21.78% 
-🌙 Night      21 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.11%
+🌞 Morning    105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.24% 
+🌆 Daytime    403 commits    ██████████████░░░░░░░░░░░   58.49% 
+🌃 Evening    160 commits    █████░░░░░░░░░░░░░░░░░░░░   23.22% 
+🌙 Night      21 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05%
 
 ```
 
