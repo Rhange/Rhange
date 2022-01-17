@@ -1,11 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Ourcoms
+
 <!--
 **Rhange/Rhange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -20,3 +21,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhange&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rhange0511)](https://solved.ac/rhange0511)
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
