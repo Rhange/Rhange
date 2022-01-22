@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rhange0511)](https://solved.ac/rhange0511)
 
   <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%202%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 36 Contributions in the Year 2022
@@ -76,5 +78,5 @@ Linux                    8 hrs 42 mins       ███████████�
 ```
 
 
- Last Updated on 22/01/2022 18:40:50 UTC
+ Last Updated on 22/01/2022 18:42:38 UTC
 <!--END_SECTION:waka-->
