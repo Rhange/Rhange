@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rhange0511)](https://solved.ac/rhange0511)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-400%20hrs%2030%20mins-blue)
-
 **I'm an Early 🐤** 
 
 ```text
@@ -67,5 +65,5 @@ Linux                    1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/02/2022 03:14:19 UTC
+ Last Updated on 24/02/2022 03:13:12 UTC
 <!--END_SECTION:waka-->
