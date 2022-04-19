@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rhange0511)](https://solved.ac/rhange0511)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%2039%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -57,5 +57,5 @@ Windows                  48 mins             ███████████�
 ```
 
 
- Last Updated on 18/04/2022 03:41:51 UTC
+ Last Updated on 19/04/2022 03:53:36 UTC
 <!--END_SECTION:waka-->
