@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rhange0511)](https://solved.ac/rhange0511)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-530%20hrs%203%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -65,5 +65,5 @@ Windows                  3 hrs 24 mins       ███████████�
 ```
 
 
- Last Updated on 18/09/2022 04:28:26 UTC
+ Last Updated on 19/09/2022 04:51:26 UTC
 <!--END_SECTION:waka-->
