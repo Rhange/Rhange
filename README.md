@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rhange0511)](https://solved.ac/rhange0511)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-602%20hrs%2011%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -42,21 +42,19 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     2 hrs 31 mins       ████████████████████████░   98.92% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99% 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09%
+Java                     1 hr 11 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-IntelliJ                 2 hrs 33 mins       █████████████████████████   100.0%
+IntelliJ                 1 hr 11 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-POCU_COMP_2500           2 hrs 33 mins       █████████████████████████   100.0%
+POCU_COMP_2500           1 hr 11 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 33 mins       █████████████████████████   100.0%
+Windows                  1 hr 11 mins        █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 30/10/2022 04:06:36 UTC
+ Last Updated on 31/10/2022 04:02:25 UTC
 <!--END_SECTION:waka-->
