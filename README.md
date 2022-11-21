@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=rhange0511)](https://solved.ac/rhange0511)
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-643%20hrs%2017%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -42,20 +42,20 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     15 hrs 46 mins      █████████████████████████   100.0% 
-IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+Java                     3 hrs 39 mins       █████████████████████████   99.99% 
+IDEA_MODULE              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-IntelliJ                 15 hrs 46 mins      █████████████████████████   100.0%
+IntelliJ                 3 hrs 39 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-POCU_COMP_2500           15 hrs 46 mins      █████████████████████████   100.0%
+POCU_COMP_2500           3 hrs 39 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  15 hrs 46 mins      █████████████████████████   100.0%
+Windows                  3 hrs 39 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 20/11/2022 03:44:11 UTC
+ Last Updated on 21/11/2022 03:48:06 UTC
 <!--END_SECTION:waka-->
