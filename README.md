@@ -42,20 +42,19 @@ Here are some ideas to get you started:
 ⌚︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-C#                       45 mins             ████████████████████████░   98.41% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Assignment4              45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  45 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 10/12/2022 03:14:01 UTC
+ Last Updated on 11/12/2022 03:19:23 UTC
 <!--END_SECTION:waka-->
